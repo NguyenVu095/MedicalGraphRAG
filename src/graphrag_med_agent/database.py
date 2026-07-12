@@ -1,5 +1,3 @@
-"""Neo4j connection management for the medical GraphRAG project."""
-
 from __future__ import annotations
 
 import os
