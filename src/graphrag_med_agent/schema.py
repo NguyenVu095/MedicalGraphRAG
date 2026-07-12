@@ -1,5 +1,3 @@
-"""Constraints and indexes for the medical knowledge graph."""
-
 from __future__ import annotations
 
 from neo4j.exceptions import Neo4jError
